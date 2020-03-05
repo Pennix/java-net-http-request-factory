@@ -25,6 +25,7 @@
 	</developers>
 
 	<scm>
+		<url>https://github.com/Pennix/java-net-http-request-factory</url>
 		<connection>scm:git:git://github.com/Pennix/java-net-http-request-factory.git</connection>
 		<developerConnection>scm:git:ssh://git@github.com/Pennix/java-net-http-request-factory.git</developerConnection>
 		<tag>HEAD</tag>
