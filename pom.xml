@@ -3,7 +3,7 @@
 
 	<groupId>net.pennix</groupId>
 	<artifactId>java-net-http-request-factory</artifactId>
-	<version>1.0.1-SNAPSHOT</version>
+	<version>1.0.1</version>
 	<packaging>jar</packaging>
 
 	<name>${project.groupId}:${project.artifactId}</name>
@@ -28,7 +28,7 @@
 		<url>https://github.com/Pennix/java-net-http-request-factory</url>
 		<connection>scm:git:git://github.com/Pennix/java-net-http-request-factory.git</connection>
 		<developerConnection>scm:git:ssh://git@github.com/Pennix/java-net-http-request-factory.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>java-net-http-request-factory-1.0.1</tag>
 	</scm>
 
 	<distributionManagement>
